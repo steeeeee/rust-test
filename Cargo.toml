@@ -2,7 +2,7 @@
 name = "hello-world"
 version = "0.1.0"
 authors = ["steeeeee <stefano.giometti@gmail.com>"]
-publish = false
+publish = true
 description = "My my."
 license = "MIT or Apache-2.0"
 homepage = "https://github.com/steeeeee/rust-test.git"
