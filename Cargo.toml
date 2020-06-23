@@ -2,6 +2,12 @@
 name = "hello-world"
 version = "0.1.0"
 authors = ["steeeeee <stefano.giometti@gmail.com>"]
+publish = false
+description = "My my."
+license = "MIT or Apache-2.0"
+homepage = "https://github.com/steeeeee/rust-test.git"
+repository = "https://github.com/steeeeee/rust-test.git"
+documentation = "https://github.com/steeeeee/rust-test.git"
 edition = "2018"
 
 [dependencies]
