@@ -1,5 +1,5 @@
 [package]
-name = "hello-world"
+name = "hello-world-sfngmt"
 version = "0.1.0"
 authors = ["steeeeee <stefano.giometti@gmail.com>"]
 publish = true
